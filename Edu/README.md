@@ -3,7 +3,7 @@ stuff from the internet about education
 
 ## Table of Contents
 ### Programming
-- [Introduction to Computer Science and Programming in Python](#Introduction-to-Computer-Science-and-Programming-in-Python)
+- [Introduction to Computer Science and Programming in Python](#introduction-to-computer-science-and-programming-in-python)
 
 ## Contents
 
