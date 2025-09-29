@@ -18,3 +18,9 @@ Intended for students with little to no prior programming experience. It aims to
 > Source: [MIT (Massachusetts Institute of Technology) OpenCourseWare](https://ocw.mit.edu/)
 > 
 > Download Link: [**Download Here**](Prog.ComSciIntroAndPythonProg.7z)
+
+### Programming Paradigms CS107
+
+> Source: [Stanford | YouTube](https://www.youtube.com/@stanford)
+> 
+> Playlist Link: [Watch Online](https://www.youtube.com/playlist?list=PL08D9FA018A965057)
