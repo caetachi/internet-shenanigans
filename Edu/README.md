@@ -4,6 +4,8 @@ stuff from the internet about education
 ## Table of Contents
 ### Programming
 - [Introduction to Computer Science and Programming in Python](#introduction-to-computer-science-and-programming-in-python)
+- [Programming Paradigms CS107](#programming-paradigms-cs107)
+- [So You Think You Know Git - FOSDEM2024](#so-you-think-you-know-git-fosdem-2024)
 
 ## Contents
 
@@ -24,3 +26,8 @@ Intended for students with little to no prior programming experience. It aims to
 > Source: [Stanford | YouTube](https://www.youtube.com/@stanford)
 > 
 > Playlist Link: [Watch Online](https://www.youtube.com/playlist?list=PL08D9FA018A965057)
+
+### So You Think You Know Git - FOSDEM2024
+
+> Source: [GitButler | YouTube](https://www.youtube.com/@gitbutlerapp)
+> Video Link: [Watch Online](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
