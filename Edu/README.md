@@ -30,4 +30,5 @@ Intended for students with little to no prior programming experience. It aims to
 ### So You Think You Know Git - FOSDEM2024
 
 > Source: [GitButler | YouTube](https://www.youtube.com/@gitbutlerapp)
+> 
 > Video Link: [Watch Online](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
