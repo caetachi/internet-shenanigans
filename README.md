@@ -1,2 +1,2 @@
 # internet-shenanigans
-stuff from internet or related to the internet
+stuff from the internet
